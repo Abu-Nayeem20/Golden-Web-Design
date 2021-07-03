@@ -1,0 +1,159 @@
+
+@media(max-width: 576px){
+
+.golden-menu ul li a{
+	font-size: 12px;
+	padding: 0 5px;	
+}
+.header-text h3{
+	font-size: 30px;
+}
+.header-text h1{
+	font-size: 40px;
+}
+.golden-sec-title h2{
+	font-size: 30px;
+
+}
+.golden-ser-item-text h3{
+	font-size: 22px;
+}
+.golden-ser-item-text p{
+	font-size: 15px;
+}
+.golden-sin-clint{
+    padding: 10px 0;
+}
+.golden-con-sec-title h2{
+	font-size: 30px;
+}
+
+}
+
+@media(max-width: 420px){
+
+.golden-logo{
+	width: 100px;
+	margin: auto;
+	padding-bottom: 20px;
+}
+.golden-header-bottom{
+	margin-top: 50px;
+}
+.header-text h3{
+	font-size: 25px;
+}
+.header-text h1{
+	font-size: 35px;
+}
+.header-botton button{
+	width: 150px;
+	height: 40px;
+}
+.golden-sec-title h2{
+	font-size: 25px;
+}
+.golden-sec-title p{
+	font-size: 15px;
+}
+.golden-ser-item-icon i{
+	font-size: 25px;
+	width: 50px;
+	height: 50px;
+	padding-top: 8px;
+}
+.golden-ser-item-text h3{
+	font-size: 18px;
+}
+.golden-ser-item-text p{
+	font-size: 12px;
+}
+.about-item-left-text h3{
+	font-size: 20px;
+}
+.about-item-left-text h4{
+	font-size: 17px;
+}
+.about-item-left-text p{
+	font-size: 12px;
+}
+.about-item-right-text h3{
+	font-size: 20px;
+}
+.about-item-right-text h4{
+	font-size: 17px;
+}
+.about-item-right-text p{
+	font-size: 12px;
+}
+.about-contiunue{
+	width: 150px;
+	height: 150px;
+}
+.about-contiunue h3{
+	font-size: 15px;
+	padding-top: 30px;
+}
+.tm-sin-img{
+	width: 150px;
+}
+.tm-sin-mem-link a i{
+	width: 40px;
+	height: 40px;
+	font-size: 18px;
+}
+.golden-tm-bottom-text p{
+	font-size: 12px;
+}
+.golden-sin-clint{
+    width: 100px;
+}
+.golden-con-sec-title h2{
+	font-size: 25px;
+}
+.golden-con-sec-title p{
+	font-size: 15px;
+}
+
+}
+
+@media(max-width: 320px){
+
+.golden-menu ul li a{
+	font-size: 10px;
+	padding: 0 3px;	
+}
+.header-text h3{
+	font-size: 20px;
+}
+.header-text h1{
+	font-size: 25px;
+}
+.golden-sec-title h2{
+	font-size: 20px;
+}
+.golden-sec-title p{
+	font-size: 12px;
+}
+.golden-con-sec-title h2{
+	font-size: 20px;
+}
+.golden-con-sec-title p{
+	font-size: 12px;
+}
+.golden-footer-text p{
+	font-size: 10px;
+}
+.golden-footer-link{
+	padding-left: 10px;
+}
+.golden-footer-link a i{
+	width: 20px;
+	height: 20px;
+	font-size: 10px;
+	padding-top: 6px;
+
+}
+
+
+}
